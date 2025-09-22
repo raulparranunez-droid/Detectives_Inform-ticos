@@ -9,7 +9,7 @@ Era una pequeña caja de madera bastante incómoda que tenía en la tapa una hil
 Cuando una rueda daba una vuelta completa, avanzaba en una posición la otra rueda situada a su izquierda.  
 
 **¿Por qué no tuvo el éxito esperado?**  
-Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo que provocaba fallos constantes y la hacía poco fiable
+Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo que provocaba fallos constantes y la hacía poco fiable.
 
 
 ### **2. La máquina analítica de Charles Babbage**
@@ -59,8 +59,8 @@ La primera generación de computadoras abarca desde el año 1954 hasta el año 1
 - Características:Primer ordenador electrónico digital programable, pero limitado a tareas específicas de criptoanálisis.
   
 **ENIAC(1945)**
-- FUncion:Calcular tablas de artillería para el ejército estadounidense, y realizar cálculos científicos complejos.  
-- Características:Considerado el primer ordenador de propósito general, ocupaba una sala completa, usaba 18.000 tubos de vacío y consumía 150 kW.
+- Función: Calcular tablas de artillería para el ejército estadounidense, y realizar cálculos científicos complejos.  
+- Características: Considerado el primer ordenador de propósito general, ocupaba una sala completa, usaba 18.000 tubos de vacío y consumía 150 kW.
   
 **EDVAC (1949)**  
 - Propósito: Mejorar el ENIAC incorporando la arquitectura de Von Neumann, es decir, almacenar tanto datos como programas en la memoria.  
@@ -144,4 +144,10 @@ e.Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar info
 f.La magia de los garajes ; muchos proyectos empexaron en garajes como APPLE o google y eso simboliza que desde un garaje puede surgir la creatividad como son ejemplos estos. 
 # Tema 3 . La sociedad del conocimiento 
 
+#### **1.Diferencia entre información y conocimiento**
+-La informacion es un conjunto de datos organizados que tiene significado pero no han sido comprendidos profeundamente , mientras que el conocimiento es la compresion e interpretacion de la informacion en otras palabras es cuando se coge la informacion y se trabaja y reflexiona con esa informacion 
+-Un ejemplo seria  
+Informacion = hablar en publico genera nervios en muchas personas 
+Conocimiento =saber controlar esos nervios con tecnicas de respiracion 
 
+# Bibliografía
