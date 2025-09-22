@@ -16,10 +16,11 @@ Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo q
 
 **Año de fabricacion:** se creo en 1837  
 **Estructura y finalidad:**  
-
+Su estructura se componia de cinco de unidades: Entrada, memoria, unidad de control, unidad aritmético-lógica y salida. Su finalidad consistía en el procesamiento automático de datos.
 
 **Concepto de programa y algoritmo:**  
-
+Un programa era el conjunto de instruccioneas para ejecutar operaciones.
+Estas instrucciones se introducían con tarjetas perforadas, fue el primer ejemplo de una máquina programable que cumplía con varias tareas.
 
 **Papel de Ada Byron:**  
 
