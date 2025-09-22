@@ -1,6 +1,29 @@
-<img width="1200" height="658" alt="image" src="https://github.com/user-attachments/assets/03682d0b-cc97-49d4-ac29-8cac875cec07" /># Detectives_Informaticos
-1. La máquina de calcular de Pascal (Pascalina)
-La pascalina fue una calculadora mecánica creada por Blaise Pascal. Funcionaba con ruedas dentadas que representaban unidades decimales. Permitía realizar sumas y restas de forma automática girando estas ruedas. Se creo en 1642
-¿Por que no tuvo exito ? 
-Era muy costosa, frágil, difícil de fabricar y no era práctica para su uso diario en comparación con el cálculo manual de la época.
+#  Historia de la Informática
+
+**1. La máquina de calcular de Pascal (Pascalina)**
+
+**Año de fabricación :** Se creo en 1642  
+**Descripción y funcionamiento :** 
+Era una pequeña caja de madera bastante incómoda que tenía en la tapa una hilera de discos numerados, con los agujeros para introducir los dedos y hacerlos girar. Había una hilera de ventanillas bajo la hilera de discos, en la que se alineaban de derecha a izquierda las unidades, decenas, centenas, etc.
+Cuando una rueda daba una vuelta completa, avanzaba en una posición la otra rueda situada a su izquierda.  
+**¿Por qué no tuvo el éxito esperado?**  
+Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo que provocaba fallos constantes y la hacía poco fiable
+
+
+
+
+**2. La máquina analítica de Charles Babbage**
+
+**Año de fabricacion:** se creo en 1837  
+**Estructura y finalidad:**  
+
+
+**Concepto de programa y algoritmo:**  
+La máquina podía seguir una serie de instrucciones (programa), y cada conjunto de pasos para resolver un problema era un algoritmo.
+
+**Papel de Ada Byron:**  
+Ada Lovelace fue la primera en escribir un algoritmo destinado a ser procesado por una máquina. Se le considera la primera programadora de la historia.
+
+**Inconvenientes:**  
+Nunca se completó debido a problemas técnicos, falta de precisión en la maquinaria y falta de financiación.
 
