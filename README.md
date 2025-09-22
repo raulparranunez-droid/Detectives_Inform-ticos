@@ -22,9 +22,9 @@ Su estructura se componia de cinco de unidades: Entrada, memoria, unidad de cont
 Un programa era el conjunto de instruccioneas para ejecutar operaciones.
 Estas instrucciones se introducían con tarjetas perforadas, fue el primer ejemplo de una máquina programable que cumplía con varias tareas.
 
-**Papel de Ada Byron:**  
-
+**Papel de Ada Byron:** 
+Fue la primera programadora de la historia. Escribió el primer algoritmo destinado a ser procesado por una máquina y predijo que las computadoras podrían hacer más que cálculos, como crear músicas y arte.
 
 **Inconvenientes:**  
-
+Falta de financiación, limitada tecnología de la época, dificultades de ingeniería de precisión y problemas para encontrar proveedores.
 
