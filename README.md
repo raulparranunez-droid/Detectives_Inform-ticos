@@ -14,7 +14,8 @@ Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo q
 
 **2. La máquina analítica de Charles Babbage**
 
-**Año de fabricacion:** se creo en 1837  
+**Año de fabricacion:** se creo en 1837 
+
 **Estructura y finalidad:**  
 Su estructura se componia de cinco de unidades: Entrada, memoria, unidad de control, unidad aritmético-lógica y salida. Su finalidad consistía en el procesamiento automático de datos.
 
