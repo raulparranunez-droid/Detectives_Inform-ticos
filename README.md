@@ -49,3 +49,67 @@ Es un modelo de ordenador donde los datos y las instrucciones (el programa) se a
 - La memoria principal ; almacena las instrucciones que debe ejecutar el procesador y los datos necesarios para realizarlas
 - Los dispositivos de E/S ; o entrada y salida, permiten la comunicación del ordenador con el exterior, usualmente con el usuario.
 - Los buses ; son los canales de comunicación entre los componentes del ordenador.
+
+### **5. Los primeros ordenadores**   
+
+La primera generación de computadoras abarca desde el año 1954 hasta el año 1959, aunque realmente estas fechas son de las máquinas comerciales que se podrían llamar la primera generación de computadoras
+
+**Colossus Mark I (1944)** 
+- Funcion: Descifrar mensajes codificados de la máquina alemana Lorenz durante la Segunda Guerra Mundial.  
+- Características:Primer ordenador electrónico digital programable, pero limitado a tareas específicas de criptoanálisis.
+  
+**ENIAC(1945)**
+- FUncion:Calcular tablas de artillería para el ejército estadounidense, y realizar cálculos científicos complejos.  
+- Características:Considerado el primer ordenador de propósito general, ocupaba una sala completa, usaba 18.000 tubos de vacío y consumía 150 kW.
+  
+**EDVAC (1949)**  
+- Propósito: Mejorar el ENIAC incorporando la arquitectura de Von Neumann, es decir, almacenar tanto datos como programas en la memoria.  
+- Características: Más eficiente y flexible que ENIAC, permitía ejecutar distintos programas sin reconfigurar físicamente la máquina.
+
+### **6. Generaciones de ordenadores**
+Hay 5 generaciones:  
+
+1 Generación (1940-1956)  
+- Tecnología: Tubos de vacío.  
+- Características: 
+  - Ocupaban salas enormes.  
+  - Usaban lenguaje máquina.  
+  - Muy costosos y poco fiables.  
+- Ejemplo: ENIAC, Colossus.
+  
+2 Generación (1956-1963)  
+- Tecnología: Transistores.  
+- Características: 
+  - Más rápidos y fiables que la 1ª generación.  
+  - Lenguajes de alto nivel como COBOL y FORTRAN.  
+  - Menor tamaño y consumo de energía.  
+- Ejemplo:IBM 1401.  
+
+3 Generación (1964-1971)  
+- Tecnología: Circuitos integrados.  
+- Características:  
+  - Multiprogramación (varios programas ejecutándose a la vez).  
+  - Mayor velocidad de procesamiento.  
+  - Menor tamaño y coste.  
+- Ejemplo:IBM 360.
+  
+4 Generación (1971-1980)  
+- Tecnología: Microprocesadores.  
+- Características:  
+  - Aparición de los ordenadores personales.  
+  - Interfaces gráficas más amigables.  
+  - Capacidad de procesamiento más rápida y económica.  
+- Ejemplo:Apple II, IBM PC.  
+
+5 Generación (1980-Actualidad)  
+- Tecnología: Inteligencia artificial, redes y microprocesadores avanzados.  
+- Características:  
+  - Dispositivos portátiles y móviles.  
+  - Computación en la nube y conectividad global.  
+  - Capacidades de cálculo enormes en pequeños dispositivos.  
+-Ejemplo: Smartphones, superordenadores.
+
+Diferencia entre electrónica de vacío y electrónica de semiconductores
+
+-Electronica de vacío: Muy grandes, consumen mucha energía, poco fiables, lentos y frágiles.  
+-Semiconductores : Muy pequeños, bajo consumo, alta fiabilidad, rápidos y resistentes.
