@@ -1,4 +1,4 @@
-#  Historia de la Informática
+#  Tema 1 Historia de la Informática
 
 ### **1. La máquina de calcular de Pascal (Pascalina)**
 
@@ -112,4 +112,36 @@ Hay 5 generaciones:
 Diferencia entre electrónica de vacío y electrónica de semiconductores
 
 -Electronica de vacío: Muy grandes, consumen mucha energía, poco fiables, lentos y frágiles.  
--Semiconductores : Muy pequeños, bajo consumo, alta fiabilidad, rápidos y resistentes.
+-Semiconductores : Muy pequeños, bajo consumo, alta fiabilidad, rápidos y resistentes.#  Historia de la Informática
+
+# Tema 2 HISTORIA DE INTERNET
+#### **1. DESARROLLA BREVEMENTE LOS SIGUIENTES CONTENIDOS**   
+
+1.ARPANET (1969) ;Primera red de computadoras, base de Internet, conectaba universidades y centros de investigación. 
+
+2.TCP/IP(1974/1983) ;Protocolos que permiten la comunicación entre distintas redes; el “lenguaje” de Internet.  
+
+3.INTERNET(1983) ;Red de redes global que conecta millones de computadoras para comunicación y acceso a información  
+
+4.WWW y HTML(1989-1991) ;World Wide Web y lenguaje HTML permitieron crear y navegar páginas web accesibles para todos.  
+
+5.Wandex y Mosaic(1993) ;fue un navegador gráfico que popularizó la web; Wandex ayudó a indexar contenidos como buscador.  
+
+6.INTERNET 2.0(2000) ;Evolución de la web hacia interacción social, multimedia y contenido generado por usuarios.  
+
+### **2. Personajes**  
+
+a.Leonard Kleinrock  ;Ayudó a crear ARPANET y estudió cómo las computadoras podían comunicarse entre sí.
+
+b.Robert Kahn y Vinton Cerf ; inventores del protocolo TCP/IP ,que permitió la interconexión de diferentes redes y formo Internet tal como lo conocemos. 
+
+c.Bill Gates y Steve Jobs  ; Fundadores de Microsoft y Apple; impulsaron la computación personal y la expansión del software y hardware que facilitó el acceso masivo a Internet.
+
+d.Tim Berners-Lee ; Inventó la World Wide Web en 1989 y desarrolló HTML, permitiendo crear y vincular páginas web de manera sencilla .
+
+e.Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar información en Internet.
+
+f.La magia de los garajes ; muchos proyectos empexaron en garajes como APPLE o google y eso simboliza que desde un garaje puede surgir la creatividad como son ejemplos estos. 
+# Tema 3 . La sociedad del conocimiento 
+
+
