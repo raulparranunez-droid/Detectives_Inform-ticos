@@ -19,11 +19,11 @@ Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo q
 
 
 **Concepto de programa y algoritmo:**  
-La máquina podía seguir una serie de instrucciones (programa), y cada conjunto de pasos para resolver un problema era un algoritmo.
+
 
 **Papel de Ada Byron:**  
-Ada Lovelace fue la primera en escribir un algoritmo destinado a ser procesado por una máquina. Se le considera la primera programadora de la historia.
+
 
 **Inconvenientes:**  
-Nunca se completó debido a problemas técnicos, falta de precisión en la maquinaria y falta de financiación.
+
 
