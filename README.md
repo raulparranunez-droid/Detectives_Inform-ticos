@@ -1,2 +1,2 @@
-# Detectives_Inform-ticos
+# Detectives_Informaticos
 tarea1
