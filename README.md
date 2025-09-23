@@ -11,6 +11,7 @@ Cuando una rueda daba una vuelta completa, avanzaba en una posición la otra rue
 **¿Por qué no tuvo el éxito esperado?**  
 Era cara de fabricar, complicada de usar y limitada a operaciones básicas ,lo que provocaba fallos constantes y la hacía poco fiable.
 
+![descarga (5)](https://github.com/user-attachments/assets/9668494b-41c6-42b7-8040-84f615c26730)
 
 ### **2. La máquina analítica de Charles Babbage**
 
@@ -27,13 +28,18 @@ Estas instrucciones se introducían con tarjetas perforadas, fue el primer ejemp
 Fue la primera programadora de la historia. Escribió el primer algoritmo destinado a ser procesado por una máquina y predijo que las computadoras podrían hacer más que cálculos, como crear músicas y arte.
 
 **Inconvenientes:**  
-Falta de financiación, limitada tecnología de la época, dificultades de ingeniería de precisión y problemas para encontrar proveedores.
+Falta de financiación, limitada tecnología de la época, dificultades de ingeniería de precisión y problemas para encontrar proveedores.  
+
+![images](https://github.com/user-attachments/assets/b3b705c6-7285-40a2-8354-df3ef2c438f9)
 
 ### **3. La máquina universal de Turing**  
 
 La máquina universal de Turing es un modelo teórico de computación propuesto por Alan Turing en 1936  
 Representa un modelo idealizado de computación capaz de almacenar/procesar información virtualmente infinita. Fue importante por que permitio entender los límites de la computación , qué problemas pueden resolverse con algoritmos y cuáles no.  
-Marcó un gran hito en la historia de la informática, hasta el punto de ser considerada como el origen de los actuales ordenadores
+Marcó un gran hito en la historia de la informática, hasta el punto de ser considerada como el origen de los actuales ordenadores  
+
+![descarga (6)](https://github.com/user-attachments/assets/e13ae1ff-3cc1-400c-868f-748427226e6d)
+
 
 ### **4. La arquitectura de Von Neumann**  
 
@@ -49,6 +55,8 @@ Es un modelo de ordenador donde los datos y las instrucciones (el programa) se a
 - La memoria principal ; almacena las instrucciones que debe ejecutar el procesador y los datos necesarios para realizarlas
 - Los dispositivos de E/S ; o entrada y salida, permiten la comunicación del ordenador con el exterior, usualmente con el usuario.
 - Los buses ; son los canales de comunicación entre los componentes del ordenador.
+  
+![vonneumann2](https://github.com/user-attachments/assets/09d613d4-5e9a-4183-ba28-b0892753b8ca)
 
 ### **5. Los primeros ordenadores**   
 
@@ -57,7 +65,7 @@ La primera generación de computadoras abarca desde el año 1954 hasta el año 1
 **Colossus Mark I (1944)** 
 - Funcion: Descifrar mensajes codificados de la máquina alemana Lorenz durante la Segunda Guerra Mundial.  
 - Características:Primer ordenador electrónico digital programable, pero limitado a tareas específicas de criptoanálisis.
-  
+ 
 **ENIAC(1945)**
 - Función: Calcular tablas de artillería para el ejército estadounidense, y realizar cálculos científicos complejos.  
 - Características: Considerado el primer ordenador de propósito general, ocupaba una sala completa, usaba 18.000 tubos de vacío y consumía 150 kW.
@@ -65,6 +73,8 @@ La primera generación de computadoras abarca desde el año 1954 hasta el año 1
 **EDVAC (1949)**  
 - Propósito: Mejorar el ENIAC incorporando la arquitectura de Von Neumann, es decir, almacenar tanto datos como programas en la memoria.  
 - Características: Más eficiente y flexible que ENIAC, permitía ejecutar distintos programas sin reconfigurar físicamente la máquina.
+  
+![descarga (7)](https://github.com/user-attachments/assets/6132b9dd-e698-4165-a3a1-38a5671f0b7e)
 
 ### **6. Generaciones de ordenadores**
 Hay 5 generaciones:  
@@ -107,12 +117,23 @@ Hay 5 generaciones:
   - Dispositivos portátiles y móviles.  
   - Computación en la nube y conectividad global.  
   - Capacidades de cálculo enormes en pequeños dispositivos.  
--Ejemplo: Smartphones, superordenadores.
+- Ejemplo: Smartphones, superordenadores.
+
+6 Generación (1980-Actualidad)  
+- Tecnología: computacion cuantica y biochips
+- Características:  
+  - Integracion de inteligencia artificial. 
+  - Conectividad total con el Internet de las Cosas (IoT)  
+  - Interfaces cerebro-computadora en desarrollo.  
+- Ejemplo:Realidad virtual avanzada  
+ 
+<img width="1086" height="320" alt="desktop_5173b90b-d0c4-440a-b8b2-53990eb82919" src="https://github.com/user-attachments/assets/8c8d8eba-f38f-4021-a00e-7998ed4397e9" />
+
 
 Diferencia entre electrónica de vacío y electrónica de semiconductores
 
 -Electronica de vacío: Muy grandes, consumen mucha energía, poco fiables, lentos y frágiles.  
--Semiconductores : Muy pequeños, bajo consumo, alta fiabilidad, rápidos y resistentes.#  Historia de la Informática
+-Semiconductores : Muy pequeños, bajo consumo, alta fiabilidad, rápidos y resistentes.
 
 # Tema 2 HISTORIA DE INTERNET
 #### **1. DESARROLLA BREVEMENTE LOS SIGUIENTES CONTENIDOS**   
@@ -131,17 +152,30 @@ Diferencia entre electrónica de vacío y electrónica de semiconductores
 
 ### **2. Personajes**  
 
-a. Leonard Kleinrock  ;Ayudó a crear ARPANET y estudió cómo las computadoras podían comunicarse entre sí.
+a. Leonard Kleinrock  ;Ayudó a crear ARPANET y estudió cómo las computadoras podían comunicarse entre sí.  
 
-b. Robert Kahn y Vinton Cerf ; inventores del protocolo TCP/IP ,que permitió la interconexión de diferentes redes y formo Internet tal como lo conocemos. 
+![images (1)](https://github.com/user-attachments/assets/95361537-eace-4159-829f-298b906de718)
 
-c. Bill Gates y Steve Jobs  ; Fundadores de Microsoft y Apple; impulsaron la computación personal y la expansión del software y hardware que facilitó el acceso masivo a Internet.
+b. Robert Kahn y Vinton Cerf ; inventores del protocolo TCP/IP ,que permitió la interconexión de diferentes redes y formo Internet tal como lo conocemos.  
 
-d. Tim Berners-Lee ; Inventó la World Wide Web en 1989 y desarrolló HTML, permitiendo crear y vincular páginas web de manera sencilla .
+![interenet 390](https://github.com/user-attachments/assets/39b2757b-de6a-4fdb-897f-89fac94a0be6)
 
-e. Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar información en Internet.
+c. Bill Gates y Steve Jobs  ; Fundadores de Microsoft y Apple; impulsaron la computación personal y la expansión del software y hardware que facilitó el acceso masivo a Internet.  
+
+![descarga](https://github.com/user-attachments/assets/dbf879fe-98b3-4694-9977-28598045e2e2)
+
+d. Tim Berners-Lee ; Inventó la World Wide Web en 1989 y desarrolló HTML, permitiendo crear y vincular páginas web de manera sencilla .  
+
+![descarga (1)](https://github.com/user-attachments/assets/26c07cfb-93d0-456b-adcb-c6334a797eb8)
+
+e. Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar información en Internet.  
+
+![descarga (2)](https://github.com/user-attachments/assets/b3d4e346-4afb-4bf4-baa5-b5db763194f7)
 
 f. La magia de los garajes ; muchos proyectos empexaron en garajes como APPLE o google y eso simboliza que desde un garaje puede surgir la creatividad como son ejemplos estos.  
+
+![descarga (8)](https://github.com/user-attachments/assets/ef4fb05a-2ce0-4ac4-9f86-d3c192847272)
+
 
 # Tema 3 . La sociedad del conocimiento 
 
@@ -162,8 +196,9 @@ Conocimiento =saber controlar esos nervios con tecnicas de respiracion
 
 -Actuadores ; Dispositivos que hacen una accion cuando reciben una orden (encender luces, abrir persianas, cortar agua).  
 
--Comunicación: La comunicacion entre los equipos (WiFi, Bluetooth, Zigbee, etc.).
+-Comunicación: La comunicacion entre los equipos (WiFi, Bluetooth, Zigbee, etc.).  
 
+![descarga (3)](https://github.com/user-attachments/assets/c90981b8-34c2-4b04-ade2-a68dd87f5be9) ![descarga (4)](https://github.com/user-attachments/assets/b1017607-16c0-4fcf-9c83-6b42a1a77d5f)
 
 
 
@@ -173,12 +208,12 @@ Conocimiento =saber controlar esos nervios con tecnicas de respiracion
 
 
 # 📚 Bibliografía
-
-https://www.umadivulga.uma.es/museo-virtual/informatica/pascalina/
-https://es.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica
-https://psicologiaymente.com/cultura/maquina-de-turing
-https://odiseageek.es/posts/arquitectura-von-neumann-que-es-y-como-funciona/
-https://es.wikipedia.org/wiki/Primera_generaci%C3%B3n_de_computadoras
-https://chatgpt.com/c/68d18849-9234-8321-bc2b-374a499cd1f1
-https://www.zelec.es/diferencias-entre-domotica-e-internet-de-las-cosas-iot/
+ 
+https://www.umadivulga.uma.es/museo-virtual/informatica/pascalina/  
+https://es.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica  
+https://psicologiaymente.com/cultura/maquina-de-turing  
+https://odiseageek.es/posts/arquitectura-von-neumann-que-es-y-como-funciona/  
+https://es.wikipedia.org/wiki/Primera_generaci%C3%B3n_de_computadoras  
+https://chatgpt.com/c/68d18849-9234-8321-bc2b-374a499cd1f1  
+https://www.zelec.es/diferencias-entre-domotica-e-internet-de-las-cosas-iot/  
 
