@@ -131,23 +131,54 @@ Diferencia entre electrónica de vacío y electrónica de semiconductores
 
 ### **2. Personajes**  
 
-a.Leonard Kleinrock  ;Ayudó a crear ARPANET y estudió cómo las computadoras podían comunicarse entre sí.
+a. Leonard Kleinrock  ;Ayudó a crear ARPANET y estudió cómo las computadoras podían comunicarse entre sí.
 
-b.Robert Kahn y Vinton Cerf ; inventores del protocolo TCP/IP ,que permitió la interconexión de diferentes redes y formo Internet tal como lo conocemos. 
+b. Robert Kahn y Vinton Cerf ; inventores del protocolo TCP/IP ,que permitió la interconexión de diferentes redes y formo Internet tal como lo conocemos. 
 
-c.Bill Gates y Steve Jobs  ; Fundadores de Microsoft y Apple; impulsaron la computación personal y la expansión del software y hardware que facilitó el acceso masivo a Internet.
+c. Bill Gates y Steve Jobs  ; Fundadores de Microsoft y Apple; impulsaron la computación personal y la expansión del software y hardware que facilitó el acceso masivo a Internet.
 
-d.Tim Berners-Lee ; Inventó la World Wide Web en 1989 y desarrolló HTML, permitiendo crear y vincular páginas web de manera sencilla .
+d. Tim Berners-Lee ; Inventó la World Wide Web en 1989 y desarrolló HTML, permitiendo crear y vincular páginas web de manera sencilla .
 
-e.Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar información en Internet.
+e. Larry Page y Sergéi Brin ;fundaron Google y cambiaron la forma de buscar información en Internet.
 
-f.La magia de los garajes ; muchos proyectos empexaron en garajes como APPLE o google y eso simboliza que desde un garaje puede surgir la creatividad como son ejemplos estos. 
+f. La magia de los garajes ; muchos proyectos empexaron en garajes como APPLE o google y eso simboliza que desde un garaje puede surgir la creatividad como son ejemplos estos.  
+
 # Tema 3 . La sociedad del conocimiento 
 
 #### **1.Diferencia entre información y conocimiento**
--La informacion es un conjunto de datos organizados que tiene significado pero no han sido comprendidos profeundamente , mientras que el conocimiento es la compresion e interpretacion de la informacion en otras palabras es cuando se coge la informacion y se trabaja y reflexiona con esa informacion 
+-La informacion es un conjunto de datos organizados que tiene significado pero no han sido comprendidos profeundamente , mientras que el conocimiento es la compresion e interpretacion de la informacion en otras palabras es cuando se coge la informacion y se trabaja y reflexiona con esa informacion  
 -Un ejemplo seria  
-Informacion = hablar en publico genera nervios en muchas personas 
-Conocimiento =saber controlar esos nervios con tecnicas de respiracion 
 
-# Bibliografía
+Informacion = hablar en publico genera nervios en muchas personas 
+Conocimiento =saber controlar esos nervios con tecnicas de respiracion   
+ 
+#### **2.Domotica**  
+-Diferencia entre domotica e Iot    
+1. La domotica funciona dentro de a vivienda con un sistema propio y el internet de las cosas depende de interntet para conectar disositivos entre si.  
+2. La domotica , los datos y el control se quedan en casa sin intermediarios externos mientras que el internet de las cosas la informcion pasa por servidores de terceros.  
+3. La domotica tiene un alcance diseñado para dentro del inmueble y el internet de las cosas conecta hogar , coches ,ciuedades,etc.  
+
+-Sensores ;Son dispositivos que recogen información del entorno (movimiento, temperatura, luz, humo, etc.)  
+
+-Actuadores ; Dispositivos que hacen una accion cuando reciben una orden (encender luces, abrir persianas, cortar agua).  
+
+-Comunicación: La comunicacion entre los equipos (WiFi, Bluetooth, Zigbee, etc.).
+
+
+
+
+
+
+
+
+
+# 📚 Bibliografía
+
+https://www.umadivulga.uma.es/museo-virtual/informatica/pascalina/
+https://es.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica
+https://psicologiaymente.com/cultura/maquina-de-turing
+https://odiseageek.es/posts/arquitectura-von-neumann-que-es-y-como-funciona/
+https://es.wikipedia.org/wiki/Primera_generaci%C3%B3n_de_computadoras
+https://chatgpt.com/c/68d18849-9234-8321-bc2b-374a499cd1f1
+https://www.zelec.es/diferencias-entre-domotica-e-internet-de-las-cosas-iot/
+
