@@ -199,7 +199,49 @@ Conocimiento =saber controlar esos nervios con tecnicas de respiracion
 -Comunicación: La comunicacion entre los equipos (WiFi, Bluetooth, Zigbee, etc.).  
 
 ![descarga (3)](https://github.com/user-attachments/assets/c90981b8-34c2-4b04-ade2-a68dd87f5be9) ![descarga (4)](https://github.com/user-attachments/assets/b1017607-16c0-4fcf-9c83-6b42a1a77d5f)
+# Big Data
 
+## Concepto
+Big Data se describe como un gran volumen de datos, tanto estructurados como no estructurados.
+
+## Origen de los datos
+El origen de los datos en Big Data se remonta a la invención de la World Wide Web en 1989 y la explosión de internet y las redes sociales en la década de los 90 y 2000. El concepto de Big Data se popularizó a partir de 2005 con las plataformas de código abierto.
+
+## Algoritmos de Machine Learning (enumerar simplemente)
+- Algoritmos de Regresión  
+- Algoritmos basados en instancia  
+- Algoritmos de Árbol de Decisión  
+- Algoritmos Bayesianos  
+- Algoritmos de Clustering  
+- Algoritmos de Redes Neuronales  
+- Algoritmos de Aprendizaje Profundo  
+- Algoritmos de Reducción de Dimensión  
+- Procesamiento del Lenguaje Natural  
+
+## Aplicaciones (usos) del Big Data
+Medicina personalizada y la predicción de enfermedades en salud, optimización de precios y gestión de inventarios en retail, estrategias deportivas y análisis de rendimiento en el deporte, gestión del tráfico, optimización del transporte público y alertas de emergencia.
+
+---
+
+## 1. Consecuencias no deseables de la sociedad del conocimiento
+
+### - La brecha digital
+Es la desigualdad social que existe entre las personas o comunidades que tienen acceso y saben usar las tecnologías de la información y comunicación, y aquellas que no, por motivos como la geografía, el género, la edad, el nivel socioeconómico o la alfabetización.
+
+### - Ciberdelincuencia
+Cualquier actividad ilegal que se realiza a través de redes informáticas, internet u otros sistemas tecnológicos, atacando la confidencialidad, integridad o disponibilidad de sistemas, redes y datos con fines de lucro, personales o políticos.
+
+#### i. Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers, etc.
+Software malicioso diseñado para dañar, interrumpir o acceder sin permiso a sistemas informáticos, redes y datos.
+
+#### ii. Ciberacoso: ciberbullying y sexting
+Es el acto de usar tecnología digital para amenazar, humillar, avergonzar o acosar a otra persona de manera repetida y deliberada.
+
+#### iii. Técnicas: phishing, smishing, pharming, ataque DDOS (botnets), hijacking, etc.
+Tipos de ataques informáticos que se suelen usar para estafar, suplantar o robar, que se cuelan en tu dispositivo a través de links, SMS o e-mail.
+
+#### iv. Seguridad: antivirus, firewall, proxy, VPN
+Procesos y prácticas para proteger sistemas, redes, programas y datos contra ataques malintencionados, daños o acceso no autorizado, garantizando su confidencialidad, integridad y disponibilidad.
 
 
 
