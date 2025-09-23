@@ -140,7 +140,10 @@ Diferencia entre electrónica de vacío y electrónica de semiconductores
 
 1.ARPANET (1969) ;Primera red de computadoras, base de Internet, conectaba universidades y centros de investigación. 
 
-2.TCP/IP(1974/1983) ;Protocolos que permiten la comunicación entre distintas redes; el “lenguaje” de Internet.  
+2.TCP/IP(1974/1983) ;Protocolos que permiten la comunicación entre distintas redes; el “lenguaje” de Internet.   
+
+![TCP-Gif](https://github.com/user-attachments/assets/01a3267e-a080-4820-8a02-97a6cc052fb6)
+
 
 3.INTERNET(1983) ;Red de redes global que conecta millones de computadoras para comunicación y acceso a información  
 
@@ -208,7 +211,9 @@ Big Data se describe como un gran volumen de datos, tanto estructurados como no 
 **Origen de los datos**
 El origen de los datos en Big Data se remonta a la invención de la World Wide Web en 1989 y la explosión de internet y las redes sociales en la década de los 90 y 2000. El concepto de Big Data se popularizó a partir de 2005 con las plataformas de código abierto.  
 
-![1](https://github.com/user-attachments/assets/13eca97f-ddc0-4c07-824d-6644be15ed11)
+
+![descarga](https://github.com/user-attachments/assets/b221878e-fc9f-45f4-916a-1c57b1047d70)
+
 
 **Algoritmos de Machine Learning**
 - Algoritmos de Regresión  
